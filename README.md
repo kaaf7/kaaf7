@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karim</h1>
+<h1 align="center">Hi, I'm Karim</h1>
 <h3 align="center">Front End Developer with Architectural Engineering Background</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaaf7" alt="kaaf7" /></a> </p>
