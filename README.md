@@ -1,7 +1,4 @@
 
-<h3 align="center">Full-Stack Developer with Architectural Engineering Background</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaaf7" alt="kaaf7" /></a> </p>
 
 - 🔭 I’m currently working on [Bankai.](https://ecomm-frontend-client.onrender.com/)
 
