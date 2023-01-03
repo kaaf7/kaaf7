@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on [Bankai.](https://ecomm-frontend-client.onrender.com/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
