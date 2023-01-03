@@ -1,5 +1,7 @@
 
 
+Full-Stack developer with a background in Architectural Engineering,
+
 - 🔭 I’m currently working on [Bankai.](https://ecomm-frontend-client.onrender.com/)
 
 <p align="left">
