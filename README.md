@@ -1,7 +1,16 @@
 
 
-Full-Stack developer with a background in Architectural Engineering,
-
+<p align="left">
+As a full-stack developer with a background in architectural
+            engineering, I have a strong foundation in both technical and
+            creative skills. I hold a master's degree in architecture and have
+            worked on various design and architectural projects, including
+            experience as an architectural engineer with one of Germany's
+            leading firms. Over the past five years, I have developed my design
+            skills, project execution, and leadership abilities. In recent
+            months, I have also gained proficiency in HTML/CSS, JavaScript,
+            Redux, MongoDB, and ReactJS.</p>
+               
 - 🔭 I’m currently working on [Bankai.](https://ecomm-frontend-client.onrender.com/)
 
 <p align="left">
