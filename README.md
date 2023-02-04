@@ -3,7 +3,7 @@
 <p align="left">
 Self taught Full-Stack Developer with a background in Architectural Engineering specializing in building web applications using JavaScript (ES6), React, Redux, HTML5, CSS3, Node.js, and MongoDB. My background in architectural engineering gives me an understanding of design principles, and user experience, and an ability to work with a team to deliver projects that are both functional and visually pleasing. I am dedicated to personal and professional growth, consistently seeking out new challenges and opportunities to expand my knowledge and skills.</p>
                
-- 🔭 Check my first project [Bankai.](https://ecomm-frontend-client.onrender.com/)
+- 🔭 Check My First Project [Bankai.](https://ecomm-frontend-client.onrender.com/)
 - 🔭 Currently Working on [Mensch](https://mensch-fitness-app.onrender.com/) Ftiness App
 
 <h3 align="left">Connect with me:</h3>
