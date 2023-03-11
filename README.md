@@ -8,7 +8,7 @@ Currently learning Typescript
 </p>
                
 - 🔭 Check out My First E-Commerce Project [Bankai.](https://ecomm-frontend-client.onrender.com/)
-- 🔭 Currently Working on [Mensch](https://mensch-fitness-app.onrender.com/) Fitness App
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
