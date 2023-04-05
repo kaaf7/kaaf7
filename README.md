@@ -7,7 +7,6 @@ Currently learning Typescript
 
 </p>
                
-- 🔭 Check out My First E-Commerce Project [Bankai.](https://ecomm-frontend-client.onrender.com/)
 
 
 <h3 align="left">Connect with me:</h3>
