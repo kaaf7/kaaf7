@@ -1,10 +1,7 @@
 
 
 <p align="left">
-Full-Stack Developer with a background in Architectural Engineering specializing in building web applications using JavaScript (ES6), React, Redux, HTML5, CSS3, Node.js, and MongoDB. My background in architectural engineering gives me an understanding of design principles, and user experience, and an ability to work with a team to deliver projects that are both functional and visually pleasing. I am dedicated to personal and professional growth, consistently seeking out new challenges and opportunities to expand my knowledge and skills.
-
-Currently learning Typescript
-
+Full-Stack Developer
 </p>
                
 
