@@ -1,6 +1,6 @@
 
 
 <p align="left">
-Full-Stack Developer
+Software Developer
 </p>
               
