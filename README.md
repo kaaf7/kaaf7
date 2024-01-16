@@ -1,6 +1,6 @@
 
 
 <p align="left">
-Software Developer
+Frontend Developer
 </p>
               
