@@ -1,6 +1,6 @@
 
 
 <p align="left">
-Frontend Developer
+Self-Taught Software Developer
 </p>
               
