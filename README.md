@@ -1,6 +1,6 @@
 
 
 <p align="left">
-Self-Taught Software Developer
+Software Developer
 </p>
               
